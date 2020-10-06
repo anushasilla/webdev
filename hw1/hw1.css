@@ -1,0 +1,58 @@
+*{
+  margin: 0;
+  font-family: "Devanagari MT"
+}
+
+h1 {
+  color: rgb(1, 10, 100);
+  text-align: center;
+  margin: 20px;
+}
+
+h2 {
+  margins: 10px;
+  color: dodgerblue;
+  font-family: "Helvetica Neue";
+  align-content:space-around;
+  margins: 50px;
+}
+.card1, .card2, .card3 {
+  width: 500px;
+  border: 1px #ccc solid;
+  margin: 15px;
+  padding: 20px;
+}
+
+.h3 {
+  font-family: ".SF NS Display";
+  text-decoration-width: initial;
+}
+.title {
+  font-size: 25px;
+}
+
+.title, .description, .link {
+  font-family: SignPainter;
+  font-weight: normal;
+  margin: 15px;
+}
+
+.description, .link {
+  font-size: 14px;
+  line-height: 20px;
+}
+
+#important-description {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(167, 26, 99);
+}
+
+.link:hover {
+  text-decoration: underline;
+  color: rgb(227, 10, 43);
+}
